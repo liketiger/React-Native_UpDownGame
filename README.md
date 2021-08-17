@@ -16,7 +16,7 @@
 ### Screenshot
 
 
-![스크린샷 2021-08-17 오후 11 46 12](https://user-images.githubusercontent.com/50165633/129748316-30774386-11b3-421b-ac15-a6517729b013.png)
+![스크린샷 2021-08-17 오후 11 46 36](https://user-images.githubusercontent.com/50165633/129748401-7fe4aa2e-542b-41f8-b0be-447ffbe516e2.png)
 
 
 
